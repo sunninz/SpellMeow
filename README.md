@@ -52,7 +52,7 @@
 ---
 
 ## 🎥 시연 영상  
-🔗 **[시연 영상 보러가기](https://youtu.be/your-video-link)**  
+🔗 **[시연 영상 보러가기]([https://youtu.be/your-video-link](https://youtu.be/smIGHyDzBdU))**  
 
 ---
 
