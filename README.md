@@ -1,4 +1,5 @@
-# 🐱 SpellMeow - 초등학생을 위한 영어 단어 학습 기능성 게임
+# 🐱 SpellMeow
+![Frame 1 (2)](https://github.com/user-attachments/assets/016caba4-3637-42a6-bc62-553b2b307476)
 
 <br />
 
